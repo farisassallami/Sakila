@@ -8,7 +8,7 @@ In this project, I used the Sakila database to complete various queries using Py
 
 To get started, I downloaded the Sakila database and ERD files from the provided link. I used MySQL Workbench to test my queries and then copied and pasted them into my Jupyter Notebook to perform with Pandas and SQLAlchemy. To insert the ERD into my notebook, I used the Markdown cell with the following code: 
 
-![png](IMAGE_URL_HERE) and replaced "IMAGE_URL_HERE" with the link to the ERD.
+![png]([IMAGE_URL_HERE](https://assets.codingdojo.com/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png)) and replaced "IMAGE_URL_HERE" with the link to the ERD.
 
 ### Conclusion
 
